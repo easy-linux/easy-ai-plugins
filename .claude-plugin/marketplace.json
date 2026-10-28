@@ -1,0 +1,10 @@
+{
+  "name": "easy-ai-plugins",
+  "plugins": [
+    {
+      "name": "frontend-review",
+      "source": "./plugins/frontend-review",
+      "description": "Review React and TypeScript components for correctness, accessibility, SSR safety, and security issues."
+    }
+  ]
+}

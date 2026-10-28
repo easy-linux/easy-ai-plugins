@@ -1,0 +1,5 @@
+{
+  "name": "frontend-review",
+  "version": "1.0.0",
+  "description": "Review React and TypeScript components for correctness, accessibility, SSR safety, and security issues."
+}
