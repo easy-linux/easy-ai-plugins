@@ -1,5 +1,9 @@
 {
   "name": "easy-ai-plugins",
+  "owner": {
+    "name": "Easy IT",
+    "email": "its.easy.linux@gmail.com"
+  },
   "plugins": [
     {
       "name": "frontend-review",
