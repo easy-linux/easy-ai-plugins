@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    {
+      "name": "frontend-review",
+      "source": {
+        "type": "path",
+        "path": "./plugins/frontend-review"
+      },
+      "description": "Review React and TypeScript components for correctness, accessibility, SSR safety, and security issues."
+    }
+  ]
+}
